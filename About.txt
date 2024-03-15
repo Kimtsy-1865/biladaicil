@@ -1,0 +1,9 @@
+"Special project for Nabila Ardelia"
+
+Builder     : Kimtsy
+Id          : 186535
+Location    : Cileungsi, West Java 16820
+Date        : Maret 2024
+
+@ey.kimtsy
+@Copyright2024
